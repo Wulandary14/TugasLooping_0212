@@ -90,3 +90,9 @@ void hasilFibonacci()
     }
 }
 
+// Program utama
+int main()
+{
+    while (true)
+    {
+    
