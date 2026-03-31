@@ -76,3 +76,8 @@ void hasilPrima()
     }
 }
 
+// Prosedur untuk menampilkan hasil cek bilangan Fibonacci
+void hasilFibonacci()
+{
+    inputAngka();
+
