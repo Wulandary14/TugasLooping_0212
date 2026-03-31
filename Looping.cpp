@@ -100,4 +100,11 @@ int main()
         switch (pilihan)
         {
             case 1:
-                
+            hasilPrima();
+                break;
+            case 2:
+            hasilFibonacci();
+                break;
+            
+
+     
