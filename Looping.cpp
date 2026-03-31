@@ -15,3 +15,10 @@ void tampilkanMenu(){
     cout << "0. Keluar\n";
     cout << "Masukkan pilihan: ";
 }
+
+// Prosedur untuk input angka
+void inputAngka()
+{
+    cout << "Masukkan bilangan: ";
+    cin >> angka;
+}
