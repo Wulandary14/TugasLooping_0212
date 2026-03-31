@@ -22,3 +22,11 @@ void inputAngka()
     cout << "Masukkan bilangan: ";
     cin >> angka;
 }
+
+// Function bool untuk mengecek bilangan prima
+bool cekPrima(int n)
+{
+    if (n <= 1) 
+    {
+        return false;
+    }
