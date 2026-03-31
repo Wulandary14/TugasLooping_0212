@@ -95,4 +95,9 @@ int main()
 {
     while (true)
     {
-    
+     tampilkanMenu();
+        cin >> pilihan;
+        switch (pilihan)
+        {
+            case 1:
+                
