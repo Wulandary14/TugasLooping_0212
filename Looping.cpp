@@ -110,5 +110,13 @@ int main()
                 break;
             default:
             cout << "Pilihan tidak valid.\n";
-        
+        }
+        if (pilihan == 0)
+        {
+            break;
+        }
+    }
+    return 0;
+}
+
      
