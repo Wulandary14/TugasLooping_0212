@@ -61,3 +61,9 @@ bool cekFibonacci(int n) {
     }
     return false;
 }
+
+// Prosedur untuk menampilkan hasil cek bilangan prima
+void hasilPrima()
+{
+    inputAngka();
+
